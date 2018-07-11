@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/q351941406/488679798/releases/download/1.0/mgm.ipa</string>
+					<string>https://github.com/zuanqianqianapp/57501708/releases/download/1.0/jsyl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rb.ios.mgm</string>
+				<string>qijiduchang50336</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>美高梅</string>
+				<string>金沙娱乐</string>
 			</dict>
 		</dict>
 	</array>
